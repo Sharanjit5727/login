@@ -17,7 +17,7 @@
       margin-top:100px;
       border-radius: 5px;
       overflow:hidden;
-      background-color: black;
+      background-color: blue;
       color:white;
     }
     body{
