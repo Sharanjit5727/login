@@ -15,7 +15,7 @@
       margin-top:100px;
       border-radius: 5px;
       overflow:hidden;
-      background-color: black;
+      background-color: blue;
       color:white;
       padding-left:30px;
       padding-bottom:30px;
@@ -27,7 +27,7 @@
       padding-top: 0px;
     }
     #btn{
-      background-color: black;
+      background-color: blue;
       height:30px;
       width:90px;
       border-radius: 6px;
